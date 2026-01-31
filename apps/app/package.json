@@ -11,7 +11,7 @@
     "lint:check": "tsc --noEmit && eslint ./"
   },
   "dependencies": {
-    "@aws-sdk/client-ses": "^3.651.1",
+    "@aws-sdk/client-ses": "^3.730.0",
     "@chakra-ui/react": "^3.2.3",
     "@emotion/react": "^11.13.5",
     "@marsidev/react-turnstile": "1.0.2",
@@ -58,7 +58,7 @@
     "lodash": "^4.17.21",
     "near-api-js": "6.0.1",
     "nearblocks-trans-next-intl": "https://github.com/Nearblocks/translations.git#2f7a01608ecd4ac1122200043169bec0feb0f1ce",
-    "next": "^15.5.4",
+    "next": "^16.1.5",
     "next-intl": "^3.25.1",
     "next-runtime-env": "^3.2.2",
     "next-themes": "^0.3.0",
