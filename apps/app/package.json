@@ -11,7 +11,7 @@
     "lint:check": "tsc --noEmit && eslint ./"
   },
   "dependencies": {
-    "@aws-sdk/client-ses": "^3.651.1",
+    "@aws-sdk/client-ses": "^3.730.0",
     "@chakra-ui/react": "^3.2.3",
     "@emotion/react": "^11.13.5",
     "@marsidev/react-turnstile": "1.0.2",
@@ -35,7 +35,7 @@
     "@opentelemetry/sdk-logs": "^0.56.0",
     "@reown/appkit": "^1.5.3",
     "@reown/appkit-adapter-wagmi": "^1.5.3",
-    "@sentry/nextjs": "7.119.0",
+    "@sentry/nextjs": "9.39.0",
     "@vercel/og": "^0.6.4",
     "@vercel/otel": "^1.10.0",
     "@wagmi/connectors": "^5.5.3",
