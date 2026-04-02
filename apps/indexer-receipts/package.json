@@ -16,7 +16,7 @@
     "lint:check": "tsc --noEmit && eslint ./"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "3.750.0",
+    "@aws-sdk/client-s3": "3.894.0",
     "@sentry/node": "7.74.1",
     "@smithy/node-http-handler": "4.0.3",
     "envalid": "8.0.0",
